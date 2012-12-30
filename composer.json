@@ -1,5 +1,5 @@
 {
-    "name": "zend2auth/SanAuth",
+    "name": "zend2auth/sanauth",
     "description": "Auth for ZF2",
     "license": "BSD-3-Clause",
     "keywords": [
